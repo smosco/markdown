@@ -32,8 +32,8 @@ Fruits:
 <!-- Other Fruits -->
 
 -fruits
-  -apple
-    -red
+ -apple
+  -red
 
 <!-- Number list -->
 
