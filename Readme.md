@@ -31,8 +31,9 @@ Fruits:
 
 <!-- Other Fruits -->
 
-- peach
-- pear
+-fruits
+  -apple
+    -red
 
 <!-- Number list -->
 
